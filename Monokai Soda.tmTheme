@@ -59,6 +59,109 @@
                 <string>#97c5db</string>
             </dict>
         </dict>
+        <!-- CRAFT -->
+        <dict>
+            <key>name</key>
+            <string>Twig Tagbraces</string>
+            <key>scope</key>
+            <string>meta.tag.template.value.twig, meta.tag.template.block.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#002a34</string>
+                <key>foreground</key>
+                <string>#97c5db</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Keywords</string>
+            <key>scope</key>
+            <string>keyword.control.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#539fc3</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Objects</string>
+            <key>scope</key>
+            <string>variable.other.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#97c5db</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Object Properties</string>
+            <key>scope</key>
+            <string>variable.other.property.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#cee9f6</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Language Constants</string>
+            <key>scope</key>
+            <string>constant.language.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFD2A6</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Numerical Constants</string>
+            <key>scope</key>
+            <string>constant.numeric.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFD0FB</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Filters</string>
+            <key>scope</key>
+            <string>support.function.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#cee9f6</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig User-Defined Filters</string>
+            <key>scope</key>
+            <string>meta.function-call.other.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#E89191</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Macros</string>
+            <key>scope</key>
+            <string>meta.function-call.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#cee9f6</string>
+            </dict>
+        </dict>
+        <!-- CRAFT -->
         <dict>
             <key>name</key>
             <string>Comment</string>
