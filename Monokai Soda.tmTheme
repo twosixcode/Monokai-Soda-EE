@@ -63,7 +63,6 @@
 
 
         <!-- EE -->
-
         <!-- only relevant if using //github.com/fcgrx/ExpressionEngine2-Sublime-Text-3-Bundle -->
         <dict>
             <key>name</key>
@@ -103,10 +102,7 @@
                 <string>#c2f3fc</string>
             </dict>
         </dict>
-
-
-
-        <!-- EE -->
+        <!-- END EE -->
 
 
 
