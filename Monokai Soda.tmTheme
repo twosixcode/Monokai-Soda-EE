@@ -59,7 +59,58 @@
                 <string>#97c5db</string>
             </dict>
         </dict>
-        <!-- CRAFT -->
+
+
+
+        <!-- EE -->
+
+        <!-- only relevant if using //github.com/fcgrx/ExpressionEngine2-Sublime-Text-3-Bundle -->
+        <dict>
+            <key>name</key>
+            <string>EE tag</string>
+            <key>scope</key>
+            <string>ee.tag.html, support.function.addon.ee, entity.function.addon.ee, entity.other.attribute-name.user.ee, variable.other.ee, support.constant.ee, support.variable.language.ee</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#002a34</string>
+                <key>foreground</key>
+                <string>#97c5db</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>name</key>
+            <string>EE built-in attribute</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.predefined.ee, variable.parameter.ee</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c2f3fc</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>EE conditional</string>
+            <key>scope</key>
+            <string>keyword.control.ee, keyword.operator.logical.ee</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c2f3fc</string>
+            </dict>
+        </dict>
+
+
+
+        <!-- EE -->
+
+
+
+        <!-- BEGIN CRAFT -->
         <dict>
             <key>name</key>
             <string>Twig Tagbraces</string>
@@ -162,6 +213,24 @@
             </dict>
         </dict>
         <!-- END CRAFT -->
+
+
+        <!-- BEGIN SASS -->
+        <dict>
+            <key>name</key>
+            <string>Sass: Variable</string>
+            <key>scope</key>
+            <string>source.scss variable</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#fcb0ff</string>
+            </dict>
+        </dict>
+        <!-- END SASS -->
+
+
+
         <dict>
             <key>name</key>
             <string>Comment</string>
@@ -170,7 +239,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#75715E</string>
+                <string>#8a8d8a</string>
             </dict>
         </dict>
         <dict>
